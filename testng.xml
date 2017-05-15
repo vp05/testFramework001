@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" parallel="true" thread-count="8">
+    <test name="asd">
+        <packages>
+            <package name="com.platform.*"/>
+        </packages>
+    </test>
+</suite>
+
+        <!--<suite name="Test-method Suite" parallel="methods" thread-count="2">-->
+        <!--<test name="Test-method test" group-by-instances="true">-->
+        <!--<classes>-->
+        <!--<class name="com.platform.framework.ParallelMethodTest"/>-->
+        <!--</classes>-->
+        <!--</test>-->
+        <!--</suite>-->
+
+        <!--<suite name="Test-class Suite" parallel="classes" thread-count="8" >-->
+        <!--<test name="Test-class test" >-->
+        <!--<classes>-->
+        <!--<class name="com.platform.framework.ParallelClassesTestOne" />-->
+        <!--<class name="com.platform.framework.ParallelClassesTestTwo" />-->
+        <!--</classes>-->
+        <!--</test>-->
+        <!--</suite>-->

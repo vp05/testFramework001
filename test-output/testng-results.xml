@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test-class Suite" duration-ms="31" started-at="2017-04-22T16:15:22Z" finished-at="2017-04-22T16:15:22Z">
+    <groups>
+    </groups>
+    <test name="Test-class test" duration-ms="31" started-at="2017-04-22T16:15:22Z" finished-at="2017-04-22T16:15:22Z">
+      <class name="com.platform.framework.ParallelClassesTestTwo">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.platform.framework.ParallelClassesTestTwo@5479e3f]" name="beforeClass" is-config="true" duration-ms="10" started-at="2017-04-22T18:15:22Z" finished-at="2017-04-22T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testMethodOne()[pri:0, instance:com.platform.framework.ParallelClassesTestTwo@5479e3f]" name="testMethodOne" duration-ms="0" started-at="2017-04-22T18:15:22Z" finished-at="2017-04-22T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodOne -->
+        <test-method status="PASS" signature="testMethodTwo()[pri:0, instance:com.platform.framework.ParallelClassesTestTwo@5479e3f]" name="testMethodTwo" duration-ms="0" started-at="2017-04-22T18:15:22Z" finished-at="2017-04-22T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodTwo -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.platform.framework.ParallelClassesTestTwo@5479e3f]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-04-22T18:15:22Z" finished-at="2017-04-22T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.platform.framework.ParallelClassesTestTwo -->
+      <class name="com.platform.framework.ParallelClassesTestOne">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.platform.framework.ParallelClassesTestOne@449b2d27]" name="beforeClass" is-config="true" duration-ms="10" started-at="2017-04-22T18:15:22Z" finished-at="2017-04-22T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testMethodOne()[pri:0, instance:com.platform.framework.ParallelClassesTestOne@449b2d27]" name="testMethodOne" duration-ms="0" started-at="2017-04-22T18:15:22Z" finished-at="2017-04-22T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodOne -->
+        <test-method status="PASS" signature="testMethodTwo()[pri:0, instance:com.platform.framework.ParallelClassesTestOne@449b2d27]" name="testMethodTwo" duration-ms="0" started-at="2017-04-22T18:15:22Z" finished-at="2017-04-22T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodTwo -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.platform.framework.ParallelClassesTestOne@449b2d27]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-04-22T18:15:22Z" finished-at="2017-04-22T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.platform.framework.ParallelClassesTestOne -->
+    </test> <!-- Test-class test -->
+  </suite> <!-- Test-class Suite -->
+</testng-results>
