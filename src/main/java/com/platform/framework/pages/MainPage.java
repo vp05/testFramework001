@@ -5,4 +5,8 @@ public class MainPage {
     public void asd() {
 
     }
+
+    public void asd2() {
+
+    }
 }
